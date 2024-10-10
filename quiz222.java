@@ -1,4 +1,5 @@
-//----------------------------------------------------------------------------------------------
+//name: haden Alshaar
+// ID: 445013952
 
 // Java code for linearly search x in arr[]. If x
 
@@ -44,7 +45,7 @@ class LinearSearch {
 
                         int n = arr.length;
 
-                        int x = 4;
+                        int x = 6;
 
                         int index = search(arr, n, x);
 
